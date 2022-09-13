@@ -10,10 +10,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 8,
-  "bbox_right": 21,
-  "bbox_top": 10,
-  "bbox_bottom": 23,
+  "bbox_left": 1,
+  "bbox_right": 22,
+  "bbox_top": 1,
+  "bbox_bottom": 22,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -68,6 +68,6 @@
   "nineSlice": null,
   "parent": {
     "name": "Sprites_player_Alpha_Dagger",
-    "path": "folders/Sprites/Sprites_Player_base/Sprites/Sprites_Player_Alpha/Sprites_Player_Alpha_Atack/Sprites_Player_Alpha_Wapons/Sprites_player_Alpha_Dagger.yy",
+    "path": "folders/Sprites/Sprites_Player_base/Sprites/Sprites_Player_Alpha/Sprites_Player_Alpha_Wapons/Sprites_player_Alpha_Dagger.yy",
   },
 }
