@@ -67,7 +67,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites_Weapon_Select",
-    "path": "folders/Sprites/Sprites_Weapon_Select.yy",
+    "name": "spr_weapon_select_weapons",
+    "path": "folders/Sprites/Sprites_Weapon_Select/spr_weapon_select_weapons.yy",
   },
 }

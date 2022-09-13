@@ -117,7 +117,7 @@
     "resourceType": "GMNineSliceData",
   },
   "parent": {
-    "name": "Sprites_Player_Alpha_Motion",
-    "path": "folders/Sprites/Sprites_Player_base/Sprites/Sprites_Player_Alpha/Sprites_Player_Alpha_Motion.yy",
+    "name": "Sprites_Player_Alpha_Moviment",
+    "path": "folders/Sprites/Sprites_Player_base/Sprites/Sprites_Player_Alpha/Sprites_Player_Alpha_Moviment.yy",
   },
 }
