@@ -88,6 +88,6 @@
   "nineSlice": null,
   "parent": {
     "name": "Sprites_Player_Alpha_Sword_Atack",
-    "path": "folders/Sprites/Sprites_Player_base/Sprites/Sprites_Player_Alpha/Sprites_Player_Alpha_Wapons/Sprites_Player_Alpha_Sword/Sprites_Player_Alpha_Sword_Atack.yy",
+    "path": "folders/Sprites/Sprites_Player_base/Sprites_Player_Alpha/Sprites_Player_Alpha_Wapons/Sprites_Player_Alpha_Sword/Sprites_Player_Alpha_Sword_Atack.yy",
   },
 }

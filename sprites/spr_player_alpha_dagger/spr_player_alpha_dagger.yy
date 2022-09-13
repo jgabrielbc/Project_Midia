@@ -68,6 +68,6 @@
   "nineSlice": null,
   "parent": {
     "name": "Sprites_player_Alpha_Dagger",
-    "path": "folders/Sprites/Sprites_Player_base/Sprites/Sprites_Player_Alpha/Sprites_Player_Alpha_Wapons/Sprites_player_Alpha_Dagger.yy",
+    "path": "folders/Sprites/Sprites_Player_base/Sprites_Player_Alpha/Sprites_Player_Alpha_Wapons/Sprites_player_Alpha_Dagger.yy",
   },
 }

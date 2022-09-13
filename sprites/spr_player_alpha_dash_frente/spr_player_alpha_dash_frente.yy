@@ -90,6 +90,6 @@
   "nineSlice": null,
   "parent": {
     "name": "Sprites_Player_Alpha_Moviment",
-    "path": "folders/Sprites/Sprites_Player_base/Sprites/Sprites_Player_Alpha/Sprites_Player_Alpha_Moviment.yy",
+    "path": "folders/Sprites/Sprites_Player_base/Sprites_Player_Alpha/Sprites_Player_Alpha_Moviment.yy",
   },
 }
