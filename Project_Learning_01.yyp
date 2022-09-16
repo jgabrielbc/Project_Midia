@@ -38,6 +38,7 @@
     {"id":{"name":"spr_arena_madeira_horizontal","path":"sprites/spr_arena_madeira_horizontal/spr_arena_madeira_horizontal.yy",},"order":2,},
     {"id":{"name":"obj_arena_areia_p2","path":"objects/obj_arena_areia_p2/obj_arena_areia_p2.yy",},"order":1,},
     {"id":{"name":"spr_player_alpha_spear","path":"sprites/spr_player_alpha_spear/spr_player_alpha_spear.yy",},"order":0,},
+    {"id":{"name":"Arena_BackGound_door","path":"sprites/Arena_BackGound_door/Arena_BackGound_door.yy",},"order":4,},
     {"id":{"name":"spr_player_alpha_sword","path":"sprites/spr_player_alpha_sword/spr_player_alpha_sword.yy",},"order":0,},
     {"id":{"name":"spr_player_alpha_idle_spear","path":"sprites/spr_player_alpha_idle_spear/spr_player_alpha_idle_spear.yy",},"order":1,},
     {"id":{"name":"spr_arena_parede_meio","path":"sprites/spr_arena_parede_meio/spr_arena_parede_meio.yy",},"order":5,},
