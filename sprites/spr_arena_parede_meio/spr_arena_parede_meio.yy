@@ -67,7 +67,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Arena_BackGround",
-    "path": "folders/Arenas/Arena/Arena_Sprites/Arena_BackGround.yy",
+    "name": "Arena_Sprites",
+    "path": "folders/Arenas/Arena/Arena_Sprites/Arena_Sprites.yy",
   },
 }
