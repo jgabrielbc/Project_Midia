@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_player_02",
+  "name": "Obj_Button_Exit",
   "spriteId": {
-    "name": "spr_player_red",
-    "path": "sprites/spr_player_red/spr_player_red.yy",
+    "name": "spr_button_exit",
+    "path": "sprites/spr_button_exit/spr_button_exit.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Obj_Player_01",
-    "path": "folders/Objetos/Objeto/Obj_Player_01.yy",
+    "name": "Arena_Button",
+    "path": "folders/Arenas/Arena/Arena_Sprites/Arena_Button.yy",
   },
 }

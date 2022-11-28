@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_player_02",
+  "name": "obj_chao",
   "spriteId": {
-    "name": "spr_player_red",
-    "path": "sprites/spr_player_red/spr_player_red.yy",
+    "name": "spr_chao",
+    "path": "sprites/spr_chao/spr_chao.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Obj_Player_01",
-    "path": "folders/Objetos/Objeto/Obj_Player_01.yy",
+    "name": "Obj_Chão",
+    "path": "folders/Objetos/Objeto/Obj_Chão.yy",
   },
 }

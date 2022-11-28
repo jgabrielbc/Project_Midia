@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_player_02",
+  "name": "Obj_Button_Start",
   "spriteId": {
-    "name": "spr_player_red",
-    "path": "sprites/spr_player_red/spr_player_red.yy",
+    "name": "spr_button_start",
+    "path": "sprites/spr_button_start/spr_button_start.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,11 +24,13 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Obj_Player_01",
-    "path": "folders/Objetos/Objeto/Obj_Player_01.yy",
+    "name": "Arena_Button",
+    "path": "folders/Arenas/Arena/Arena_Sprites/Arena_Button.yy",
   },
 }
