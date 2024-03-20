@@ -91,6 +91,6 @@
   "nineSlice": null,
   "parent": {
     "name": "Sprites_Player_Alpha_Spear_Movement",
-    "path": "folders/Sprites/Sprites_Player_base/Sprites_Player_Alpha/Sprites_Player_Alpha_Wapons/Sprites_Player_Alpha_Spear/Sprites_Player_Alpha_Spear_Movement.yy",
+    "path": "folders/Sprites/Sprites_Player_base/Sprites_Player_Alpha/Sprites_Player_Alpha_Weapons/Sprites_Player_Alpha_Spear/Sprites_Player_Alpha_Spear_Movement.yy",
   },
 }

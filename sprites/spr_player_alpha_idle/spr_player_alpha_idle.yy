@@ -74,7 +74,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites_Player_Alpha_Moviment",
-    "path": "folders/Sprites/Sprites_Player_base/Sprites_Player_Alpha/Sprites_Player_Alpha_Moviment.yy",
+    "name": "Sprites_Player_Alpha_Movement",
+    "path": "folders/Sprites/Sprites_Player_base/Sprites_Player_Alpha/Sprites_Player_Alpha_Movement.yy",
   },
 }

@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_player_02",
   "spriteId": {
-    "name": "spr_player_red",
-    "path": "sprites/spr_player_red/spr_player_red.yy",
+    "name": "spr_player_beta_idle",
+    "path": "sprites/spr_player_beta_idle/spr_player_beta_idle.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,11 +24,14 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
     "name": "Obj_Player_01",
-    "path": "folders/Objetos/Objeto/Obj_Player_01.yy",
+    "path": "folders/Objetos/Obj_Player_01.yy",
   },
 }

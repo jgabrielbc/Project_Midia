@@ -29,6 +29,6 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Obj_Chão",
-    "path": "folders/Objetos/Objeto/Obj_Chão.yy",
+    "path": "folders/Objetos/Obj_Chão.yy",
   },
 }

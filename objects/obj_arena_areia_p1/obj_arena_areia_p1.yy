@@ -28,7 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Arena_Objetos",
-    "path": "folders/Arenas/Arena/Arena_Objetos.yy",
+    "name": "Obj_Blocos",
+    "path": "folders/Objetos/Obj_Blocos.yy",
   },
 }

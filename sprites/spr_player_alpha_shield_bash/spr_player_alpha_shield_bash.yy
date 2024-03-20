@@ -88,7 +88,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites_Player_Alpha_Wapons",
-    "path": "folders/Sprites/Sprites_Player_base/Sprites_Player_Alpha/Sprites_Player_Alpha_Wapons.yy",
+    "name": "Sprites_Player_Alpha_Weapons",
+    "path": "folders/Sprites/Sprites_Player_base/Sprites_Player_Alpha/Sprites_Player_Alpha_Weapons.yy",
   },
 }
